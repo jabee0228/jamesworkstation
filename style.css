@@ -287,10 +287,10 @@ header ul li a:hover
 {
   .mosque
   {
-    opacity: 0.4 !important;
+    opacity: 0.4 ;
   }
   .mosque1
   {
-    opacity: 0.4 !important;
+    opacity: 0.4 ;
   }
 }
