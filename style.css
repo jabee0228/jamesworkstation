@@ -288,9 +288,11 @@ header ul li a:hover
   .mosque
   {
     opacity: 0.4 !important;
+    -webkit-opacity: 0.5;
   }
   .mosque1
   {
     opacity: 0.4 !important;
+    -webkit-opacity: 0.5;
   }
 }
