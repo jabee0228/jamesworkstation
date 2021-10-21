@@ -287,18 +287,12 @@ header ul li a:hover
 {
   .mosque
   {
-    filter: alpha(opacity=30);
-    -moz-opacity: 0.3;
-    -khtml-opacity: 0.3;
-    opacity: 0.3;
+    opacity: 0.4 !important;
     
   }
   .mosque1
   {
-    filter: alpha(opacity=30);
-    -moz-opacity: 0.3;
-    -khtml-opacity: 0.3;
-    opacity: 0.3;
+    opacity: 0.4 !important;
     
   }
 }
